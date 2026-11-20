@@ -7,3 +7,5 @@
 - Git
 - GitHub
 - Visual Studio Code
+ 
+Дата выполнения: 20.11.2026
